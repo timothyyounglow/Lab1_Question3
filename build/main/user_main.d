@@ -1,7 +1,7 @@
-user_main.o: C:/esp/Lab1_i2c/main/user_main.c \
+user_main.o: C:/esp/lab1_i2c/main/user_main.c \
  C:/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  C:/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -46,7 +46,7 @@ C:/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 
@@ -125,4 +125,4 @@ C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h:
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h:
-/c/esp/Lab1_i2c/main/./user_main.c:
+/c/esp/lab1_i2c/main/./user_main.c:
