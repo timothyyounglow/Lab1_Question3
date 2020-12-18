@@ -3,7 +3,7 @@ tcp_slave/port/port_tcp_slave.o: \
  C:/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  C:/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/time.h \
  C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_interface.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp_event/include/esp_event_base.h \
@@ -97,7 +97,7 @@ C:/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/time.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h:
 

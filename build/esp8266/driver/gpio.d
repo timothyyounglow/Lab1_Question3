@@ -1,6 +1,6 @@
 driver/gpio.o: C:/esp/ESP8266_RTOS_SDK/components/esp8266/driver/gpio.c \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
@@ -38,7 +38,7 @@ driver/gpio.o: C:/esp/ESP8266_RTOS_SDK/components/esp8266/driver/gpio.c \
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h:
 

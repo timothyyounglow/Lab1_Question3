@@ -1,6 +1,6 @@
 esp_netif.o: C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/esp_netif.c \
  C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_interface.h \
@@ -64,7 +64,7 @@ esp_netif.o: C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/esp_netif.c \
 
 C:/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include/esp_netif.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi_types.h:
 

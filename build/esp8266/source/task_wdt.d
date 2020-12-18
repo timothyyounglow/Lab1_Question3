@@ -1,7 +1,7 @@
 source/task_wdt.o: \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/source/task_wdt.c \
  C:/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -32,7 +32,7 @@ source/task_wdt.o: \
 
 C:/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

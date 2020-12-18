@@ -2,7 +2,7 @@ port/portevent_m.o: \
  C:/esp/ESP8266_RTOS_SDK/components/freemodbus/port/portevent_m.c \
  C:/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mb_m.h \
  C:/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mbconfig.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/freemodbus/port/port.h \
  C:/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  C:/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -52,7 +52,7 @@ C:/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mb_m.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/freemodbus/modbus/include/mbconfig.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/freemodbus/port/port.h:
 

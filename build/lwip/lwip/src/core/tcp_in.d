@@ -6,7 +6,7 @@ lwip/src/core/tcp_in.o: \
  C:/esp/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/time.h \
  C:/esp/ESP8266_RTOS_SDK/components/vfs/include/sys/ioctl.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_task.h \
- C:/esp/Lab1_i2c/build/include/sdkconfig.h \
+ C:/esp/lab1_i2c/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
@@ -91,7 +91,7 @@ C:/esp/ESP8266_RTOS_SDK/components/vfs/include/sys/ioctl.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_task.h:
 
-C:/esp/Lab1_i2c/build/include/sdkconfig.h:
+C:/esp/lab1_i2c/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
